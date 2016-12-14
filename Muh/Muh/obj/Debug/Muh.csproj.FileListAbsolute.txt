@@ -1,0 +1,6 @@
+C:\Learning\rollertracks\Muh\Muh\bin\Debug\Muh.exe.config
+C:\Learning\rollertracks\Muh\Muh\bin\Debug\Muh.exe
+C:\Learning\rollertracks\Muh\Muh\bin\Debug\Muh.pdb
+C:\Learning\rollertracks\Muh\Muh\obj\Debug\Muh.csprojResolveAssemblyReference.cache
+C:\Learning\rollertracks\Muh\Muh\obj\Debug\Muh.exe
+C:\Learning\rollertracks\Muh\Muh\obj\Debug\Muh.pdb
